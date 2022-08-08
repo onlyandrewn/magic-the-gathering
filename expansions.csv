@@ -1,0 +1,96 @@
+,name,scryfall_uri,released_at,released_year,released_month,released_day,card_count,set_type,group
+0,The Brothers' War,https://scryfall.com/sets/bro,2022-11-18,2022,11,18,0,expansion,2017-2022
+9,Dominaria United,https://scryfall.com/sets/dmu,2022-09-09,2022,9,9,16,expansion,2017-2022
+27,Streets of New Capenna,https://scryfall.com/sets/snc,2022-04-29,2022,4,29,467,expansion,2017-2022
+41,Kamigawa: Neon Dynasty,https://scryfall.com/sets/neo,2022-02-18,2022,2,18,512,expansion,2017-2022
+54,Innistrad: Crimson Vow,https://scryfall.com/sets/vow,2021-11-19,2021,11,19,417,expansion,2017-2022
+65,Innistrad: Midnight Hunt,https://scryfall.com/sets/mid,2021-09-24,2021,9,24,396,expansion,2017-2022
+76,Adventures in the Forgotten Realms,https://scryfall.com/sets/afr,2021-07-23,2021,7,23,422,expansion,2017-2022
+91,Strixhaven: School of Mages,https://scryfall.com/sets/stx,2021-04-23,2021,4,23,394,expansion,2017-2022
+106,Kaldheim,https://scryfall.com/sets/khm,2021-02-05,2021,2,5,427,expansion,2017-2022
+119,Zendikar Rising,https://scryfall.com/sets/znr,2020-09-25,2020,9,25,409,expansion,2017-2022
+140,Ikoria: Lair of Behemoths,https://scryfall.com/sets/iko,2020-04-24,2020,4,24,390,expansion,2017-2022
+151,Theros Beyond Death,https://scryfall.com/sets/thb,2020-01-24,2020,1,24,358,expansion,2017-2022
+162,Throne of Eldraine,https://scryfall.com/sets/eld,2019-10-04,2019,10,4,399,expansion,2017-2022
+180,War of the Spark,https://scryfall.com/sets/war,2019-05-03,2019,5,3,312,expansion,2017-2022
+186,Ravnica Allegiance,https://scryfall.com/sets/rna,2019-01-25,2019,1,25,273,expansion,2017-2022
+200,Guilds of Ravnica,https://scryfall.com/sets/grn,2018-10-05,2018,10,5,273,expansion,2017-2022
+224,Dominaria,https://scryfall.com/sets/dom,2018-04-27,2018,4,27,280,expansion,2017-2022
+234,Rivals of Ixalan,https://scryfall.com/sets/rix,2018-01-19,2018,1,19,205,expansion,2017-2022
+249,Ixalan,https://scryfall.com/sets/xln,2017-09-29,2017,9,29,289,expansion,2017-2022
+260,Hour of Devastation,https://scryfall.com/sets/hou,2017-07-14,2017,7,14,209,expansion,2017-2022
+267,Amonkhet,https://scryfall.com/sets/akh,2017-04-28,2017,4,28,287,expansion,2017-2022
+277,Aether Revolt,https://scryfall.com/sets/aer,2017-01-20,2017,1,20,197,expansion,2017-2022
+289,Kaladesh,https://scryfall.com/sets/kld,2016-09-30,2016,9,30,278,expansion,2011-2016
+297,Eldritch Moon,https://scryfall.com/sets/emn,2016-07-22,2016,7,22,208,expansion,2011-2016
+304,Shadows over Innistrad,https://scryfall.com/sets/soi,2016-04-08,2016,4,8,302,expansion,2011-2016
+307,Oath of the Gatewatch,https://scryfall.com/sets/ogw,2016-01-22,2016,1,22,187,expansion,2011-2016
+317,Battle for Zendikar,https://scryfall.com/sets/bfz,2015-10-02,2015,10,2,299,expansion,2011-2016
+334,Dragons of Tarkir,https://scryfall.com/sets/dtk,2015-03-27,2015,3,27,264,expansion,2011-2016
+338,Fate Reforged,https://scryfall.com/sets/frf,2015-01-23,2015,1,23,191,expansion,2011-2016
+357,Khans of Tarkir,https://scryfall.com/sets/ktk,2014-09-26,2014,9,26,269,expansion,2011-2016
+373,Journey into Nyx,https://scryfall.com/sets/jou,2014-05-02,2014,5,2,165,expansion,2011-2016
+382,Born of the Gods,https://scryfall.com/sets/bng,2014-02-07,2014,2,7,165,expansion,2011-2016
+392,Theros,https://scryfall.com/sets/ths,2013-09-27,2013,9,27,249,expansion,2011-2016
+405,Dragon's Maze,https://scryfall.com/sets/dgm,2013-05-03,2013,5,3,156,expansion,2011-2016
+411,Gatecrash,https://scryfall.com/sets/gtc,2013-02-01,2013,2,1,249,expansion,2011-2016
+421,Return to Ravnica,https://scryfall.com/sets/rtr,2012-10-05,2012,10,5,274,expansion,2011-2016
+432,Avacyn Restored,https://scryfall.com/sets/avr,2012-05-04,2012,5,4,244,expansion,2011-2016
+438,Dark Ascension,https://scryfall.com/sets/dka,2012-02-03,2012,2,3,158,expansion,2011-2016
+448,Innistrad,https://scryfall.com/sets/isd,2011-09-30,2011,9,30,264,expansion,2011-2016
+461,New Phyrexia,https://scryfall.com/sets/nph,2011-05-13,2011,5,13,175,expansion,2011-2016
+467,Mirrodin Besieged,https://scryfall.com/sets/mbs,2011-02-04,2011,2,4,155,expansion,2011-2016
+481,Scars of Mirrodin,https://scryfall.com/sets/som,2010-10-01,2010,10,1,249,expansion,2005-2010
+495,Rise of the Eldrazi,https://scryfall.com/sets/roe,2010-04-23,2010,4,23,248,expansion,2005-2010
+499,Worldwake,https://scryfall.com/sets/wwk,2010-02-05,2010,2,5,145,expansion,2005-2010
+511,Zendikar,https://scryfall.com/sets/zen,2009-10-02,2009,10,2,269,expansion,2005-2010
+522,Alara Reborn,https://scryfall.com/sets/arb,2009-04-30,2009,4,30,145,expansion,2005-2010
+528,Conflux,https://scryfall.com/sets/con,2009-02-06,2009,2,6,145,expansion,2005-2010
+540,Shards of Alara,https://scryfall.com/sets/ala,2008-10-03,2008,10,3,250,expansion,2005-2010
+546,Eventide,https://scryfall.com/sets/eve,2008-07-25,2008,7,25,180,expansion,2005-2010
+550,Shadowmoor,https://scryfall.com/sets/shm,2008-05-02,2008,5,2,302,expansion,2005-2010
+553,Morningtide,https://scryfall.com/sets/mor,2008-02-01,2008,2,1,150,expansion,2005-2010
+563,Lorwyn,https://scryfall.com/sets/lrw,2007-10-12,2007,10,12,301,expansion,2005-2010
+571,Future Sight,https://scryfall.com/sets/fut,2007-05-04,2007,5,4,180,expansion,2005-2010
+575,Planar Chaos,https://scryfall.com/sets/plc,2007-02-02,2007,2,2,165,expansion,2005-2010
+584,Time Spiral,https://scryfall.com/sets/tsp,2006-10-06,2006,10,6,301,expansion,2005-2010
+585,Time Spiral Timeshifted,https://scryfall.com/sets/tsb,2006-10-06,2006,10,6,121,expansion,2005-2010
+587,Coldsnap,https://scryfall.com/sets/csp,2006-07-21,2006,7,21,155,expansion,2005-2010
+590,Dissension,https://scryfall.com/sets/dis,2006-05-05,2006,5,5,180,expansion,2005-2010
+593,Guildpact,https://scryfall.com/sets/gpt,2006-02-03,2006,2,3,166,expansion,2005-2010
+604,Ravnica: City of Guilds,https://scryfall.com/sets/rav,2005-10-07,2005,10,7,306,expansion,2005-2010
+609,Saviors of Kamigawa,https://scryfall.com/sets/sok,2005-06-03,2005,6,3,165,expansion,2005-2010
+611,Betrayers of Kamigawa,https://scryfall.com/sets/bok,2005-02-04,2005,2,4,165,expansion,2005-2010
+621,Champions of Kamigawa,https://scryfall.com/sets/chk,2004-10-01,2004,10,1,307,expansion,1999-2004
+626,Fifth Dawn,https://scryfall.com/sets/5dn,2004-06-04,2004,6,4,165,expansion,1999-2004
+627,Darksteel,https://scryfall.com/sets/dst,2004-02-06,2004,2,6,165,expansion,1999-2004
+632,Mirrodin,https://scryfall.com/sets/mrd,2003-10-02,2003,10,2,306,expansion,1999-2004
+637,Scourge,https://scryfall.com/sets/scg,2003-05-26,2003,5,26,143,expansion,1999-2004
+640,Legions,https://scryfall.com/sets/lgn,2003-02-03,2003,2,3,145,expansion,1999-2004
+648,Onslaught,https://scryfall.com/sets/ons,2002-10-07,2002,10,7,351,expansion,1999-2004
+653,Judgment,https://scryfall.com/sets/jud,2002-05-27,2002,5,27,143,expansion,1999-2004
+655,Torment,https://scryfall.com/sets/tor,2002-02-04,2002,2,4,143,expansion,1999-2004
+662,Odyssey,https://scryfall.com/sets/ody,2001-10-01,2001,10,1,352,expansion,1999-2004
+666,Apocalypse,https://scryfall.com/sets/apc,2001-06-04,2001,6,4,143,expansion,1999-2004
+669,Planeshift,https://scryfall.com/sets/pls,2001-02-05,2001,2,5,146,expansion,1999-2004
+675,Invasion,https://scryfall.com/sets/inv,2000-10-02,2000,10,2,350,expansion,1999-2004
+679,Prophecy,https://scryfall.com/sets/pcy,2000-06-05,2000,6,5,144,expansion,1999-2004
+682,Nemesis,https://scryfall.com/sets/nem,2000-02-14,2000,2,14,143,expansion,1999-2004
+690,Mercadian Masques,https://scryfall.com/sets/mmq,1999-10-04,1999,10,4,350,expansion,1999-2004
+699,Urza's Destiny,https://scryfall.com/sets/uds,1999-06-07,1999,6,7,143,expansion,1999-2004
+702,Urza's Legacy,https://scryfall.com/sets/ulg,1999-02-15,1999,2,15,143,expansion,1999-2004
+707,Urza's Saga,https://scryfall.com/sets/usg,1998-10-12,1998,10,12,356,expansion,1993-1998
+714,Exodus,https://scryfall.com/sets/exo,1998-06-15,1998,6,15,143,expansion,1993-1998
+716,Stronghold,https://scryfall.com/sets/sth,1998-03-02,1998,3,2,143,expansion,1993-1998
+719,Tempest,https://scryfall.com/sets/tmp,1997-10-14,1997,10,14,350,expansion,1993-1998
+721,Weatherlight,https://scryfall.com/sets/wth,1997-06-09,1997,6,9,167,expansion,1993-1998
+727,Visions,https://scryfall.com/sets/vis,1997-02-03,1997,2,3,167,expansion,1993-1998
+730,Mirage,https://scryfall.com/sets/mir,1996-10-08,1996,10,8,351,expansion,1993-1998
+735,Alliances,https://scryfall.com/sets/all,1996-06-10,1996,6,10,199,expansion,1993-1998
+737,Homelands,https://scryfall.com/sets/hml,1995-10-01,1995,10,1,140,expansion,1993-1998
+741,Ice Age,https://scryfall.com/sets/ice,1995-06-03,1995,6,3,383,expansion,1993-1998
+746,Fallen Empires,https://scryfall.com/sets/fem,1994-11-01,1994,11,1,187,expansion,1993-1998
+748,The Dark,https://scryfall.com/sets/drk,1994-08-01,1994,8,1,122,expansion,1993-1998
+751,Legends,https://scryfall.com/sets/leg,1994-06-01,1994,6,1,310,expansion,1993-1998
+754,Antiquities,https://scryfall.com/sets/atq,1994-03-04,1994,3,4,102,expansion,1993-1998
+755,Arabian Nights,https://scryfall.com/sets/arn,1993-12-17,1993,12,17,92,expansion,1993-1998
