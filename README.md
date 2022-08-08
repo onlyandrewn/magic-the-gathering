@@ -9,38 +9,6 @@ Data analysis can be found in sets.ipynb, art.ipynb and text.ipynb
 | all_sets.csv | A list of all Magic products, 1993-present |
 | expansions.csv | A filtered list of only expansion sets |
 
-## Relevant figures
-
-### Number of cards in standard
-### Number of cards in commander
-### Average number of cards in all sets
-### Number of Magic products by year
-### Number of Magic cards by year
-### Average number of cards in a core or expansion set
-### Number of Magic products by year in a core or expansion set
-### Number of Magic cards by year in a core or expansion set
-### Time between sets
-### Percent change in number of cards first decade to current decade
-### Percent change first set to most recent standard set
-### Percent change first set to most recent set
-### Percent change first expansion set to most recent standard set
-### New products since March 2020
-### New cards since March 2020
-### Cards released in 1993
-### Cards released in 2021
-### Cards released in 2022
-### Percent change 1993 to 2021
-### Percent change 1993 to 2022
-### Number of cards with showcase frames
-### Number of keyword abilities
-### Number of keyword abilities since March 2020
-### Cards reprinted the most times
-### Top ten longest card names
-### Average length of text on cards, 2020-present
-### Average length of text on cards, 1993-present
-### Average length of text on cards, 2003-2012 vs 2013-2022
-### Average length of text on cards by year
-
 ## Charts
 
 ### Revel in Riches
